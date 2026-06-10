@@ -20,9 +20,15 @@ only annotated on the top view when the user asks for them.
 ## Established kitchen design (current baseline)
 
 - Kitchen: 3600mm x 3200mm, 2.6m ceiling (bottom-right of floorplan)
+- IMPORTANT: the two quarter-circle arcs on the kitchen's left wall are
+  **casement windows**, NOT a service-yard door. There is NO service yard.
+  The window wall must stay completely clear — nothing may block the windows.
+- Single carpentry run along the 3.6m wall (left to right): washing machine
+  under worktop, base cabinets, tall oven column, fridge in the corner
+  furthest from the windows
 - Oven: 900W x 900H x 600D mm, built into a tall cabinet column
 - Washing machine: 600W x 1000H x 700D mm, under-counter, front-loading
-- Fridge: 900W x 1800H x 700D mm, on the far end wall
+- Fridge: 900W x 1800H x 700D mm, at the end of the run away from the windows
 
 ## Finishes (from client's handwritten floorplan notes)
 
