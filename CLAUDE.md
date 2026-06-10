@@ -20,15 +20,25 @@ only annotated on the top view when the user asks for them.
 ## Established kitchen design (current baseline)
 
 - Kitchen: 3600mm x 3200mm, 2.6m ceiling (bottom-right of floorplan)
-- IMPORTANT: the two quarter-circle arcs on the kitchen's left wall are
-  **casement windows**, NOT a service-yard door. There is NO service yard.
-  The window wall must stay completely clear — nothing may block the windows.
-- Single carpentry run along the 3.6m wall (left to right): washing machine
-  under worktop, base cabinets, tall oven column, fridge in the corner
-  furthest from the windows
+- WINDOWS: the kitchen's left wall has ONE window unit made of TWO casement
+  panels side by side with NO gap between them (each quarter-circle arc on the
+  plan = one panel). There is NO service yard. The windows must never be
+  obstructed and must be rendered identically (two joined panels) in all views.
+- Window wall: LOW base cabinets with worktop (900mm counter height, below the
+  window sill), nothing above counter level so the windows stay clear.
+- Main carpentry run along the 3.6m wall (left/window end to right): stainless
+  sink, cooking hob with cooker hood above, washing machine under worktop,
+  tall oven column, fridge in the corner furthest from the windows.
 - Oven: 900W x 900H x 600D mm, built into a tall cabinet column
 - Washing machine: 600W x 1000H x 700D mm, under-counter, front-loading
 - Fridge: 900W x 1800H x 700D mm, at the end of the run away from the windows
+
+## Kitchen logic rule (permanent)
+
+Renders must always include functional essentials implied by the room type,
+even if the user does not list them: a kitchen always has a sink, cooking
+stove/hob, and cooker hood. Keep all views of a set consistent with each
+other (same window count/position, same appliance arrangement).
 
 ## Finishes (from client's handwritten floorplan notes)
 
